@@ -5,6 +5,14 @@
 # Website
 https://platesmania.com/uz/typenomer1
 
+# Links used in scrapting data
+'https://platesmania.com/uz/gallery.php?&ctype=1&start=',
+'https://platesmania.com/uz/gallery.php?&ctype=1&usr=20149&start=',
+'https://platesmania.com/uz/gallery.php?&ctype=1&usr=43788&start=',
+'https://platesmania.com/uz/gallery.php?&ctype=1&usr=85450&start=',
+'https://platesmania.com/uz/gallery.php?&ctype=1&usr=42093&start=',
+'https://platesmania.com/uz/gallery.php?&ctype=1&usr=55639&start='
+
 # Link for all images
 https://drive.google.com/drive/folders/1yVb1np_7Q_cUkO77ppGBDP2Ei47QyeQX?usp=sharing
 
