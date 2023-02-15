@@ -39,6 +39,23 @@ The method returns the list of the extracted data according to a provided url. T
 | vehicle type                 | 'DAF XF' |
 | vehicle model and other info |  '3rd gen (XF105), 2006–2013', 'Russia - Россия, п.Зайцево Новгородская область, 12/2022 ...прицеп: 8663AA|01...' |
 
+# Vehicle registration plates of Uzbekistan
+Types of license plates issued to vehicles
+
+520x112 mm	145x190 mm	520x112 mm tavsifi	145x190 mm tavsifi
+Pelak dolati-UZ.png	Pelak dolati2-UZ.png	Yuridik shaxslar transportlariga beriladigan avtoraqamlar	mos kelmaydigan gabaritli transport vositasiga oʻrnatiladigan va shakli shunga moslashtirilgan davlat raqamlari[6]
+Pelak shakhsi-UZ.png	--	jismoniy shaxslarga tegishli transportlarga beriladigan raqamlar	mos kelmaydigan gabaritli transport vositasiga oʻrnatiladigan va shakli shunga moslashtirilgan davlat raqamlari
+Автомобильные номера Узбекистана 2.gif	Тип IIA.gif	Oʻzbekiston Respublikasi Prezidenti devoni transportlariga beriladigan davlat raqamlari	mos kelmaydigan gabaritli transport vositasiga oʻrnatiladigan va shakli shunga moslashtirilgan davlat raqamlari
+Uzbekistan diplomatic license plate.png	--	chet davlatlar diplomatik vakolatxonalari, elchixonalar rahbarlarining transportlariga beriladigan davlat raqamlari	--
+Uzbekistan consular license plate.png	--	xorijiy davlatlar elchixonalari, konsullik idoralari xodimlarining transport vositalariga beriladigan davlat raqamlari	--
+Pelak SMM-UZ.png	Pelak SMM2-UZ.png	BMT va uning tuzilmalarining Oʻzbekistondagi vakolatxonasi xodimlariga tegishli transport vositlariga beriladigan davlat raqamlari	mos kelmaydigan gabaritli transport vositasiga oʻrnatiladigan va shakli shunga moslashtirilgan davlat raqamlari[7]
+Uzbekistan diplomatic license plate-consulate staff.png	Uzbekistan diplomatic license plate-consular staff North American standard.png	Chet davlatlar diplomatik vakolatxonalarining texnik-taʼminot xodimlariga tegishli transport vositlariga beriladigan davlat raqamlari	mos kelmaydigan gabaritli transport vositasiga oʻrnatiladigan va shakli shunga moslashtirilgan davlat raqamlari
+Uzbekistan consular service staff license plate.png	Uzbekistan consular service staff license plate North American standard.png	Savdo vakolatxonalari, konsulliklar, xalqaro tashkilotlar vakolatxonalari xodimlarining transport vositalariga beriladigan davlat raqamlari	mos kelmaydigan gabaritli transport vositasiga oʻrnatiladigan va shakli shunga moslashtirilgan davlat raqamlari
+Pelak mohajer-UZ.png	Pelak mohajer2-UZ.png	Xalqaro nodavlat tashkilotlar, birlashmalar, banklar, firmalar, korrespondentlik ofislari xodimlarining transport vositalariga beriladigan davlat raqamlari	mos kelmaydigan gabaritli transport vositasiga oʻrnatiladigan va shakli shunga moslashtirilgan davlat raqamlari
+Pelak khareji-UZ.png	Pelak khareji2-UZ.png	Fuqaroligi chet davlatga tegishli boʻlgan shaxslarga tegishli transport vositalariga beriladigan davlat raqamlari	mos kelmaydigan gabaritli transport vositasiga oʻrnatiladigan va shakli shunga moslashtirilgan davlat raqamlari
+Pelak movaqqat-UZ.png	Pelak movaqqat2-UZ.png	yoʻl harakatida vaqtincha qatnashish uchun beriladigan davlat raqami	mos kelmaydigan gabaritli transport vositasiga oʻrnatiladigan va shakli shunga moslashtirilgan davlat raqamlari
+G41Z VQsgyBR6lEHhdHUT7njgM4al2 E.jpg	--	Elektromobil uchun beriladigan davlat raqami[8]	--
+
 # Used libraries
 * BeautifulSoup - to parse html file
 * requests_html - to read javascripe file
