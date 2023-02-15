@@ -31,12 +31,13 @@ parsing_img_and_info method enables scripte vehicle details from the site accord
 ![image](https://user-images.githubusercontent.com/15974766/219029647-32d0e22e-b2b3-485d-816a-4ac86a945e97.png)
 
 The method returns the list of the extracted data according to a provided url. The result will be in the following order:
-
-image of vehicle             | 'https://img03.platesmania.com/230214/m/20892803.jpg'
-image of license plates      | 'https://img03.platesmania.com/230214/inf/20892803eac4c7.png'
-license plates in text       | '01 K 173 DB'
-vehicle type                 | 'DAF XF'
-vehicle model and other info |  '3rd gen (XF105), 2006–2013', 'Russia - Россия, п.Зайцево Новгородская область, 12/2022 ...прицеп: 8663AA|01...'
+| Property                     | Value |
+| ---------------------------- | ------------- |
+| image of vehicle             | 'https://img03.platesmania.com/230214/m/20892803.jpg'  |
+| image of license plates      | 'https://img03.platesmania.com/230214/inf/20892803eac4c7.png' |
+| license plates in text       | '01 K 173 DB' |
+| vehicle type                 | 'DAF XF' |
+| vehicle model and other info |  '3rd gen (XF105), 2006–2013', 'Russia - Россия, п.Зайцево Новгородская область, 12/2022 ...прицеп: 8663AA|01...' |
 
 # Used libraries
 * BeautifulSoup - to parse html file
