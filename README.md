@@ -41,12 +41,15 @@ The method returns the list of the extracted data according to a provided url. T
 
 # Vehicle registration plates of Uzbekistan
 Types of license plates issued to vehicles
+![image](https://user-images.githubusercontent.com/15974766/219033237-a71fcf0c-bb6a-477f-9a99-a80c18263ae7.png)
 
-|  | 520x112 mm | 145x190 mm |
-| ------------- | ------------- | | ------------- |
-| State vehicles  | ![image](https://user-images.githubusercontent.com/15974766/219031572-00dffb71-300b-4d3e-84cb-69d789409c7b.png)  | ![image](https://user-images.githubusercontent.com/15974766/219031651-20a67313-e126-4711-b2d5-2d3faabdec8d.png) |
-| Content Cell  | Content Cell  |
+![image](https://user-images.githubusercontent.com/15974766/219032804-00e218ee-590c-4a96-990f-6bde374bf713.png)
+![image](https://user-images.githubusercontent.com/15974766/219032900-dc290edc-f3fd-457b-87a3-d29c427304df.png)
+![image](https://user-images.githubusercontent.com/15974766/219033005-2f6cc199-bb3d-4d15-8ed3-46689ceff968.png)
+![image](https://user-images.githubusercontent.com/15974766/219033086-f0920174-7d13-49ca-b80d-2b237410e05e.png)
 
+Full information can be checked here:
+https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_avtomobil_raqamlari_indeksi
 # Used libraries
 * BeautifulSoup - to parse html file
 * requests_html - to read javascripe file
