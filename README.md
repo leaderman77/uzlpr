@@ -50,6 +50,12 @@ Types of license plates issued to vehicles
 
 Full information can be checked here:
 https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_avtomobil_raqamlari_indeksi
+
+# Statistics about the extracted data
+| No. of vehicle images  | No. of license plates' images |
+| ---------------------- | ----------------------------- |
+| 1979                   | 1979                          |
+
 # Used libraries
 * BeautifulSoup - to parse html file
 * requests_html - to read javascripe file
