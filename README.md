@@ -42,7 +42,10 @@ The method returns the list of the extracted data according to a provided url. T
 # Vehicle registration plates of Uzbekistan
 Types of license plates issued to vehicles
 
-| ![image](https://user-images.githubusercontent.com/15974766/219031572-00dffb71-300b-4d3e-84cb-69d789409c7b.png) | ![image](https://user-images.githubusercontent.com/15974766/219031651-20a67313-e126-4711-b2d5-2d3faabdec8d.png) | State vehicles |
+|  | 520x112 mm | 145x190 mm |
+| ------------- | ------------- | | ------------- |
+| State vehicles  | ![image](https://user-images.githubusercontent.com/15974766/219031572-00dffb71-300b-4d3e-84cb-69d789409c7b.png)  | ![image](https://user-images.githubusercontent.com/15974766/219031651-20a67313-e126-4711-b2d5-2d3faabdec8d.png) |
+| Content Cell  | Content Cell  |
 
 # Used libraries
 * BeautifulSoup - to parse html file
