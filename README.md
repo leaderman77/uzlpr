@@ -25,6 +25,17 @@ https://drive.google.com/drive/folders/1yVb1np_7Q_cUkO77ppGBDP2Ei47QyeQX?usp=sha
 ![17349581c5a631](https://user-images.githubusercontent.com/15974766/218662732-2cf9cf18-dd2b-4084-a66d-674b1311c7c2.png)  ![17807968fd6c94](https://user-images.githubusercontent.com/15974766/218662760-7136baa2-6431-4007-9beb-001051a86895.png) 
 ![17847943c20a70](https://user-images.githubusercontent.com/15974766/218662839-9d6cb04c-4f1c-477c-aa30-fa5a26a03ccb.png)  ![18240796b25f7f](https://user-images.githubusercontent.com/15974766/218662872-f5dafd38-4321-43eb-ae85-bc7c03f27b24.png) ![18240788e46873](https://user-images.githubusercontent.com/15974766/218663464-f6858700-731c-47ff-a70e-f1c9f51e3027.png)
 
+# Extract a vehicle details
+parsing_img_and_info method enables scripte vehicle details from the site according to each given item. For example, in the following picture can be seen which information is extracted.
+![image](https://user-images.githubusercontent.com/15974766/219029647-32d0e22e-b2b3-485d-816a-4ac86a945e97.png)
+
+The method returns the list of the extracted data according to a provided url. The result will be in the following order:
+
+image of vehicle             | 'https://img03.platesmania.com/230214/m/20892803.jpg'
+image of license plates      | 'https://img03.platesmania.com/230214/inf/20892803eac4c7.png'
+license plates in text       | '01 K 173 DB'
+vehicle type                 | 'DAF XF'
+vehicle model and other info |  '3rd gen (XF105), 2006–2013', 'Russia - Россия, п.Зайцево Новгородская область, 12/2022 ...прицеп: 8663AA|01...'
 
 # Used libraries
 * BeautifulSoup - to parse html file
