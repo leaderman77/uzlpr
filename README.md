@@ -27,6 +27,7 @@ https://drive.google.com/drive/folders/1yVb1np_7Q_cUkO77ppGBDP2Ei47QyeQX?usp=sha
 
 # Extract a vehicle details
 parsing_img_and_info method enables scripte vehicle details from the site according to each given item. For example, in the following picture can be seen which information is extracted.
+
 ![image](https://user-images.githubusercontent.com/15974766/219029647-32d0e22e-b2b3-485d-816a-4ac86a945e97.png)
 
 The method returns the list of the extracted data according to a provided url. The result will be in the following order:
