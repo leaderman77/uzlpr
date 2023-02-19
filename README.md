@@ -13,7 +13,7 @@ https://platesmania.com/uz/typenomer1
 - https://platesmania.com/uz/gallery.php?&ctype=1&usr=42093&start=0
 - https://platesmania.com/uz/gallery.php?&ctype=1&usr=55639&start=0
 
-# Link for all images
+# Google Drive Link for all images
 https://drive.google.com/drive/folders/1yVb1np_7Q_cUkO77ppGBDP2Ei47QyeQX?usp=sharing
 
 # Some examples of vehicle images
@@ -52,9 +52,9 @@ Full information can be checked here:
 https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_avtomobil_raqamlari_indeksi
 
 # Statistics about the extracted data
-| No. of vehicle images  | No. of license plates' images |
-| ---------------------- | ----------------------------- |
-| 1979                   | 1979                          |
+| No. of vehicle images  | No. of license plates' images | No. of trucks, vans and bus  | No. of other vehicle   |
+| ---------------------- | ----------------------------- | ---------------------------- | ---------------------- |
+| 5147                   | 5147                          |         1739                 |           3408         |
 
 # Used libraries
 * BeautifulSoup - to parse html file
