@@ -16,6 +16,15 @@ https://platesmania.com/uz/typenomer1
 # Google Drive Link for all images
 https://drive.google.com/drive/folders/1yVb1np_7Q_cUkO77ppGBDP2Ei47QyeQX?usp=sharing
 
+# Statistics about the extracted data
+| No. of vehicle images  | No. of license plates' images | No. of trucks, vans and buses| No. of other vehicle   |
+| ---------------------- | ----------------------------- | ---------------------------- | ---------------------- |
+| 5147                   | 5147                          |         1739                 |           3408         |
+
+# Used characteristics for license plates
+CHARS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L',
+         'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+
 # Some examples of vehicle images
 ![17543196](https://user-images.githubusercontent.com/15974766/218662443-164f1567-9219-4cff-b17f-1a371d43e2a5.jpg)  ![17458079](https://user-images.githubusercontent.com/15974766/218662487-8aca5355-f7bd-4ef5-9bab-084e94a29c6e.jpg)
 ![20884341](https://user-images.githubusercontent.com/15974766/218662534-a19217db-95d8-4b95-bfc9-1e2c87da3d0d.jpg)  ![20879256](https://user-images.githubusercontent.com/15974766/218662572-50496311-8a65-436f-b711-c172fdf401e8.jpg) 
@@ -51,11 +60,6 @@ Types of license plates issued to vehicles
 
 Full information can be checked here:
 https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_avtomobil_raqamlari_indeksi
-
-# Statistics about the extracted data
-| No. of vehicle images  | No. of license plates' images | No. of trucks, vans and buses| No. of other vehicle   |
-| ---------------------- | ----------------------------- | ---------------------------- | ---------------------- |
-| 5147                   | 5147                          |         1739                 |           3408         |
 
 # Used libraries
 * BeautifulSoup - to parse html file
