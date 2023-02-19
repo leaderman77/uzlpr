@@ -26,6 +26,7 @@ https://drive.google.com/drive/folders/1yVb1np_7Q_cUkO77ppGBDP2Ei47QyeQX?usp=sha
 ![17847943c20a70](https://user-images.githubusercontent.com/15974766/218662839-9d6cb04c-4f1c-477c-aa30-fa5a26a03ccb.png)  ![18240796b25f7f](https://user-images.githubusercontent.com/15974766/218662872-f5dafd38-4321-43eb-ae85-bc7c03f27b24.png) ![18240788e46873](https://user-images.githubusercontent.com/15974766/218663464-f6858700-731c-47ff-a70e-f1c9f51e3027.png)
 
 # Extract a vehicle details
+Extracted data is provided in csv file - **uz_license_plates.csv** in the directory folder
 parsing_img_and_info method enables scripte vehicle details from the site according to each given item. For example, in the following picture can be seen which information is extracted.
 
 ![image](https://user-images.githubusercontent.com/15974766/219029647-32d0e22e-b2b3-485d-816a-4ac86a945e97.png)
@@ -52,7 +53,7 @@ Full information can be checked here:
 https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_avtomobil_raqamlari_indeksi
 
 # Statistics about the extracted data
-| No. of vehicle images  | No. of license plates' images | No. of trucks, vans and bus  | No. of other vehicle   |
+| No. of vehicle images  | No. of license plates' images | No. of trucks, vans and buses| No. of other vehicle   |
 | ---------------------- | ----------------------------- | ---------------------------- | ---------------------- |
 | 5147                   | 5147                          |         1739                 |           3408         |
 
