@@ -1,6 +1,6 @@
 # UZLPR
 
-## License plates of Uzbekistan
+## License plates recognition of Uzbekistan vehicles
 
 # Website
 https://platesmania.com/uz/typenomer1
