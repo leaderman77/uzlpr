@@ -1,6 +1,6 @@
 # UZLPR
 
-## License plates recognition of Uzbekistan vehicles
+## Vehicles' cicense plates extraction project
 
 # Website
 https://platesmania.com/uz/typenomer1
