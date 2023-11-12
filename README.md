@@ -1,6 +1,6 @@
 # UZLPR
 
-## Vehicles' cicense plates extraction project
+## Vehicles' lcicense plates extraction project
 
 # Website
 https://platesmania.com/uz/typenomer1
